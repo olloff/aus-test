@@ -1,0 +1,35 @@
+#s-ace48f72-5d1f-42e9-a5f8-653f6fd9680d #s-FileUpload_Holder {
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #404040;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  -ms-transform: rotate(0.0deg);
+}
+#s-ace48f72-5d1f-42e9-a5f8-653f6fd9680d #s-Ellipse_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-ace48f72-5d1f-42e9-a5f8-653f6fd9680d #s-Ellipse_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-ace48f72-5d1f-42e9-a5f8-653f6fd9680d #s-Image_18 {
+  -ms-transform: rotate(0.0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-ace48f72-5d1f-42e9-a5f8-653f6fd9680d > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
